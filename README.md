@@ -7,3 +7,5 @@ Mobile Application for EV vehical owners
 
 3. Alert at 80% charge level for faster and optimized charging of the vehical.
 
+Experimenting flutter
+
